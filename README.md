@@ -5,4 +5,4 @@
 - [PNU_3991_AR](https://github.com/shin-shamsi/PNU_3991_AR)
 - [resume](https://shin-shamsi.github.io/)
 - [SOP](https://shin-shamsi.github.io/sop)
-- [java script certification](java script certificate.jpg}
+- [java script certification](https://github.com/shin-shamsi/PNU_3991_AR/blob/main/java%20script%20certificate.jpg}
