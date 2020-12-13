@@ -1,3 +1,7 @@
 # PNU_3991_AR
-this repo is for resume and spo and another project
+گیتاب 
 شهریار شمسی 
+مدرک javascript 
+ساخت اسلاید با کمک بیمر در لاتک 
+تهیه فایل لاتک همراه با فایل پی دی اف خروجی آن 
+عصویت در گیت
