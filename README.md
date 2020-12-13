@@ -1,7 +1,5 @@
 # PNU_3991_AR
-گیتاب 
-شهریار شمسی 
-مدرک javascript 
-ساخت اسلاید با کمک بیمر در لاتک 
-تهیه فایل لاتک همراه با فایل پی دی اف خروجی آن 
-عصویت در گیت
+- [github](https://github.com/shin-shamsi/)
+- [PNU_3991_AR](https://github.com/shin-shamsi/PNU_3991_AR)
+- [resume](https://shin-shamsi.github.io/)
+- [SOP](https://shin-shamsi.github.io/sop)
