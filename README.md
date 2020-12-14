@@ -8,4 +8,4 @@
 - [انگیزه نامه](https://shin-shamsi.github.io/sop)
 - [مدرک جاوا اسکریپت](js.jpg)
 - [مدرک جاوا اسکریپت](js.jpg)
-- [تهیه اسلاید با بیمر ولاتک](shin-shamsislide.jpg)
+- [تهیه اسلاید با بیمر ولاتک](shin-shamsislide.pdf)
