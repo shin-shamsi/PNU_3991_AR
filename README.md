@@ -12,5 +12,5 @@
 - [مدرک HTML](cert-1014-HTML.jpg)
 - [مدرک SQL](sql.jpg)
 - [مدرک PHP](PHP.jpg)
--  [تهیه اسلاید با بیمرو لاتک](shin-shamsislide.pdf)
-- [خروجی فایل لاتک ](shin-shamsi.pdf)
+- [تهیه اسلاید با بیمر و لاتک](shin-shamsislide.pdf)
+- [ فایل لاتک ](shin-shamsi.pdf)
