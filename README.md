@@ -10,6 +10,6 @@
 - [مدرک جاوا اسکریپت](js.jpg)
 - [مدرک HTML](cert-1014-HTML.jpg)
 - [مدرک SQL](sql.jpg)
-- [مدرک PHP](cert-1059- PHP.jpg)
+- [مدرک PHP](PHP.jpg)
 -  [تهیه اسلاید با بیمر ولاتک](shin-shamsislide.pdf)
 - [خروجی فایل لاتک ](shin-shamsi.pdf)
