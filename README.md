@@ -11,6 +11,7 @@
 - [مدرک جاوا اسکریپت](js.jpg)
 - [مدرک HTML](cert-1014-HTML.jpg)
 - [مدرک SQL](sql.jpg)
+- [مدرک C++](cert-1051-C++.jpg)
 - [مدرک PHP](PHP.jpg)
 - [تهیه اسلاید با بیمر و لاتک](shin-shamsislide.pdf)
 - [ فایل لاتک ](shin-shamsi.pdf)
