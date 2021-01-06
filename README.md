@@ -32,7 +32,8 @@
 # درس کارشناسی
 [روش پژوهش و اراِئه 01-1322010](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
 
-[1322035-01 پروژه فناوری اطلاعات ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/)
+[پروژه فناوری اطلاعات  01-1322035 ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1322035_01)
+
 <br>    
     
     
