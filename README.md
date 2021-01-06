@@ -31,6 +31,7 @@
     5. [محمد خلیلی اصل](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/18_%D9%85%D8%AD%D9%85%D8%AF%20%D8%AE%D9%84%D9%8A%D9%84%D9%8A%20%D8%A7%D8%B5%D9%84)
 # درس کارشناسی
 [روش پژوهش و اراِئه 01-1322010](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
+[1322035-01 پروژه فناوریاطلاعات](PNU_3991/_BSc/Project/1322035_01/)
 <br>    
     
     
