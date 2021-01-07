@@ -34,6 +34,9 @@
 
 [پروژه فناوری اطلاعات  01-1322035 ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1322035_01)
 
+# ارزشیابی دروس
+[ارزشیابی روزمه و انگیزه نامه](PNU_3991_AR/general/ShSh_CV_CheckList_AR_3991.pdf)
+
 <br>    
     
     
