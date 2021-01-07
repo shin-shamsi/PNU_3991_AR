@@ -36,6 +36,7 @@
 
 # ارزشیابی دروس
 [ارزشیابی روزمه و انگیزه نامه](https://github.com/shin-shamsi/PNU_3991_AR/general/ShSh_CV_CheckList_AR_3991.pdf)
+ 
 
 <br>    
     
