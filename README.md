@@ -40,6 +40,11 @@
 [خلاصه ارزیابی فعالیت های مشترک](ShSh_GeneralSection_CheckList_AR_3991.docx.pdf)
 
 [خلاصه ارزیابی درس ](ShSh_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+
+# پروژه تحقیقی
+[پروژه تحقیق در باره درس پژوهش و ارائه در یکی از دانشگاهای کشور ویا بقیه دنیا](moarefi.pdf)
+
+
 <br>    
     
     
