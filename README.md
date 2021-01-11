@@ -39,6 +39,7 @@
 
 [ارزیابی فعالیت های مشترک](https://github.com/shin-shamsi/PNU_3991_AR/blob/main/ShSh_GeneralSection_CheckList_AR_3991.pdf)
 
+[خلاصه ارزیابی درس ](ShSh_
 <br>    
     
     
