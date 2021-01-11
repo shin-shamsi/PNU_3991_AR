@@ -37,10 +37,9 @@
 # ارزشیابی دروس
 [خلاصه ارزیابی نمره رزومه و انگیزه نامه](ShSh_CV_CheckList_AR_3991.pdf)
 
-[ارزیابی فعالیت های مشترک](ShSh_GeneralSection_CheckList_AR_3991.docx.pdf)
-)
+[خلاصه ارزیابی فعالیت های مشترک](ShSh_GeneralSection_CheckList_AR_3991.docx.pdf)
 
-[خلاصه ارزیابی درس ](ShSh_
+[خلاصه ارزیابی درس ](ShSh_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 <br>    
     
     
