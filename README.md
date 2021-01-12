@@ -18,7 +18,8 @@
 - [مدرک SQL](sql.jpg)
 - [مدرک C++](cert-1051-C++.jpg)
 - [مدرک PHP](PHP.jpg)
-- [تهیه اسلاید با بیمر و لاتک](shin-shamsislide.pdf)
+- [ ببیمر ولاتک فارسی](shin-shamsislide.pdf)
+- [بیمر ولاتک انگلیسی]{shin-shamsislidevoice)  
 - [ فایل لاتک ](shin-shamsi.pdf)
 ## گروه ها
 
