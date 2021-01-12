@@ -19,7 +19,7 @@
 - [مدرک C++](cert-1051-C++.jpg)
 - [مدرک PHP](PHP.jpg)
 - [ ببیمر ولاتک فارسی](shin-shamsislide.pdf)
-- [بیمر ولاتک انگلیسی]{shin-shamsislidevoice.pdf)  
+- [ببیمر ولاتک انگلیسی]{shin-shamsislidevoice.pdf)  
 - [ فایل لاتک ](shin-shamsi.pdf)
 ## گروه ها
 
