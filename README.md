@@ -45,7 +45,7 @@
 # پروژه تحقیقی
 [پروژه تحقیق در باره درس پژوهش و ارائه در یکی از دانشگاهای کشور ویا بقیه دنیا](moarefi.pdf)
 
-[پایان نامه دکترا در باره روش تحقیق و ارائه صفحه 22 کتاب اصلی و 55 فایل پی دی اف  کتاب](https://github.com/shin-shamsi/PNU_3991_AR/blob/main/dissertation_final.pdf)
+[dissertation پایان نامه دکترا در باره روش تحقیق و ارائه صفحه 22 کتاب اصلی  55 فایل پی دی اف  کتاب](https://github.com/shin-shamsi/PNU_3991_AR/blob/main/dissertation_final.pdf)
 
 <br>    
     
