@@ -32,7 +32,7 @@
 # درس کارشناسی
 [روش پژوهش و اراِئه 01-1322010](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
 
-[پروژه فناوری اطلاعات  01-1322035 ](https://github.com/shin-shamsi/PNU_3991_AR/end.jpg)
+[پروژه فناوری اطلاعات  01-1322035 ](https://github.com/shin-shamsi/PNU_3991_AR.end.jpg)
 
 # ارزشیابی دروس
 [خلاصه ارزیابی نمره رزومه و انگیزه نامه](ShSh_CV_CheckList_AR_3991.pdf)
