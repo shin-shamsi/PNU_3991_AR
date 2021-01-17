@@ -45,7 +45,7 @@
 [خلاصه ارزیابی درس ](ShSh_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 
 # پروژه تحقیقی
-[پروژه تحقیق در باره درس پژوهش و ارائه در یکی از دانشگاهای کشور ویا بقیه دنیا](moarefi.pdf)
+[پروژه تحقیق در باره درس پژوهش و ارائه در دانشگاه آدلاید استرالیاا](adelaiduniversity.pdf)
 
 [dissertation پایان نامه دکترا در باره روش تحقیق و ارائه صفحه 22 کتاب اصلی  55 فایل پی دی اف  کتاب](https://github.com/shin-shamsi/PNU_3991_AR/blob/main/dissertation_final.pdf)
 
