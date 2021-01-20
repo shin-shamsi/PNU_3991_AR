@@ -9,7 +9,7 @@
 شماره دانشجویی : 963930790
  -----------------------
  ## سیاهه ارزشیابی درس
-1. **فعالیت های مشترک همه دانشجویان*
+##. **فعالیت های مشترک همه دانشجویان*
 - [گیتاب](https://github.com/shin-shamsi/)
 - [jlord/patchwork](jloradpatchwork.jpg)
 - [PNU_3991_AR](https://github.com/shin-shamsi/PNU_3991_AR)
