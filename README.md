@@ -55,7 +55,7 @@
     <th ></th>
     <th></th>
     <th></th>
-    <th>شنبه</th>
+    <th>پنجشنبه</th>
   </tr>
    <tr>
     <th ></th>
