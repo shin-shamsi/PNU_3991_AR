@@ -20,8 +20,8 @@
 - [مدرک SQL](sql.jpg)
 - [مدرک C++](cert-1051-C++.jpg)
 - [مدرک PHP](PHP.jpg)
-- [ ببیمر ولاتک فارسی](shin-shamsislide.pdf)
-- [ببیمر ولاتک انگلیسی](https://github.com/shin-shamsi/PNU_3991_AR/blob/main/shin-shamsislidevoice.pdf) 
+- [ ببیمر و لاتک فارسی](shin-shamsislide.pdf)
+- [ببیمر و لاتک انگلیسی](https://github.com/shin-shamsi/PNU_3991_AR/blob/main/shin-shamsislidevoice.pdf) 
 - [ارائه شفاهی اسلاید ساخته شده توسط بیمر ](eraeh.m4v)
 - [ فایل لاتک ](shin-shamsi.pdf)
 
