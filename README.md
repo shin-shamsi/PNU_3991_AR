@@ -36,18 +36,6 @@
 [روش پژوهش و اراِئه 01-1322010](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
 
 [پروژه فناوری اطلاعات  01-1322035 ](end.jpg)
-
-# ارزشیابی دروس
-[خلاصه ارزیابی نمره رزومه و انگیزه نامه](ShSh_CV_CheckList_AR_3991.pdf)
-
-[خلاصه ارزیابی فعالیت های مشترک](ShSh_GeneralSection_CheckList_AR_3991.docx.pdf)
-
-[خلاصه ارزیابی درس ](ShSh_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
-
-# پروژه تحقیقی
-[پروژه تحقیق در باره درس پژوهش و ارائه در دانشگاه آدلاید استرالیاا](adelaiduniversity.pdf)
-
-[dissertation پایان نامه دکترا در باره روش تحقیق و ارائه صفحه 22 کتاب اصلی  55 فایل پی دی اف  کتاب](https://github.com/shin-shamsi/PNU_3991_AR/blob/main/dissertation_final.pdf)
 ## روز و ساعت ارائه دروس
 
 <table style="width:100%">
@@ -107,6 +95,19 @@
     <th>پنج شنبه</th>
   </tr>
 </table>
+
+# ارزشیابی دروس
+[خلاصه ارزیابی نمره رزومه و انگیزه نامه](ShSh_CV_CheckList_AR_3991.pdf)
+
+[خلاصه ارزیابی فعالیت های مشترک](ShSh_GeneralSection_CheckList_AR_3991.docx.pdf)
+
+[خلاصه ارزیابی درس ](ShSh_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+
+# پروژه تحقیقی
+[پروژه تحقیق در باره درس پژوهش و ارائه در دانشگاه آدلاید استرالیا](adelaiduniversity.pdf)
+
+[dissertation پایان نامه دکترا در باره روش تحقیق و ارائه صفحه 22 کتاب اصلی  55 فایل پی دی اف  کتاب](https://github.com/shin-shamsi/PNU_3991_AR/blob/main/dissertation_final.pdf)
+
 
 
 <br>    
